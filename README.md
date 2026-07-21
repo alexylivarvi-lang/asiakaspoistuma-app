@@ -30,3 +30,4 @@ Tämä on tekoälypohjainen Web-sovellus, joka auttaa yrityksiä tunnistamaan po
 1. Kloonaa repositorio:
    ```bash
    git clone https://github.com/alexylivarvi-lang/asiakaspoistuma-app.git
+käytety geminiä apuna / used gemini for help ;)
